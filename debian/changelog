@@ -1,0 +1,13 @@
+antimicro (0.5.1-2) wheezy; urgency=low
+
+  * Non-maintainer upload.
+  * Switch to dpkg-source 3.0 (quilt) format
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Thu, 02 May 2013 15:36:18 -0500
+
+antimicro (0.5.1-1) wheezy; urgency=low
+
+  * Initial release
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Thu, 25 Apr 2013 16:48:32 -0500
+
