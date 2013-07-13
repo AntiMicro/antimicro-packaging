@@ -1,3 +1,9 @@
+antimicro (1.0-1) wheezy; urgency=low
+
+  * Updated to version 1.0
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Fri, 12 Jul 2013 21:17:13 -0500
+
 antimicro (0.8-1) wheezy; urgency=low
 
   * Updated to version 0.8
