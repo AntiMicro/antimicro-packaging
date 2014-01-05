@@ -1,3 +1,15 @@
+antimicro (2.0-1) jessie; urgency=low
+
+  * Updated to version 2.0
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Sat, 04 Jan 2014 23:48:33 -0600
+
+antimicro (1.2-1) wheezy; urgency=low
+
+  * Updated to version 1.2
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Fri, 13 Dec 2013 15:30:26 -0600
+
 antimicro (1.1-1) wheezy; urgency=low
 
   * Updated to version 1.1

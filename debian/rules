@@ -1,7 +1,11 @@
 #!/usr/bin/make -f
 %:
-	dh $@
+	dh $@ -Dsrc
 
 override_dh_auto_configure:
-	dh_auto_configure -- INSTALL_PREFIX=/usr
+	dh_auto_configure -- INSTALL_PREFIX=/usr USE_SDL_2=1
+
+override_dh_auto_build:
+	dh_auto_build
+	dh_auto_build -- updateqm
 
