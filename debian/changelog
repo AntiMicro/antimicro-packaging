@@ -1,4 +1,10 @@
-antimicro (2.0-1) jessie; urgency=low
+antimicro (2.1-1) wheezy; urgency=low
+
+  * Updated to version 2.1
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Fri, 28 Feb 2014 17:20:10 -0600
+
+antimicro (2.0-1) wheezy; urgency=low
 
   * Updated to version 2.0
 
