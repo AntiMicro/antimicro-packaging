@@ -1,11 +1,11 @@
 Name:           antimicro
-Version:        2.0
+Version:        2.2
 Release:        1%{?dist}
 Summary:        Graphical program used to map keyboard keys and mouse controls to a gamepad
 
 License:        GPLv3+
 URL:            https://github.com/Ryochan7/antimicro
-Source0:        https://github.com/Ryochan7/antimicro/archive/2.0.tar.gz
+Source0:        https://github.com/Ryochan7/antimicro/archive/2.2.tar.gz
 
 BuildRequires:  SDL2-devel, qt-devel, libXtst-devel, libX11-devel
 
@@ -41,6 +41,12 @@ cd ..
 
 
 %changelog
+* Sat Apr 19 2014 Travis Nickles <nickles.travis@gmail.com> - 2.2-1
+- Updated to version 2.2
+
+* Fri Feb 28 2014 Travis Nickles <nickles.travis@gmail.com> - 2.1-1
+- Updated to version 2.1
+
 * Sat Jan 04 2014 Travis Nickles <nickles.travis@gmail.com> - 2.0-1
 - Updated to version 2.0
 
