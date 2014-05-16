@@ -1,3 +1,15 @@
+antimicro (2.3.2-1) jessie; urgency=low
+
+  * Updated to version 2.3.2
+
+ -- Travis Nickles <ryochan7@debian>  Thu, 15 May 2014 20:10:18 -0500
+
+antimicro (2.3.1-1) jessie; urgency=low
+
+  * Updated to version 2.3.1
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Tue, 13 May 2014 18:26:16 -0500
+
 antimicro (2.3-1) jessie; urgency=low
 
   * Updated to version 2.3
