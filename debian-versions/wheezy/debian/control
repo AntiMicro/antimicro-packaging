@@ -4,7 +4,7 @@ Homepage: https://github.com/Ryochan7/antimicro
 Section: x11
 Priority: optional
 Standards-Version: 3.9.4
-Build-Depends: debhelper (>= 8), libqt4-dev (>= 4.8.0), libsdl1.2-dev, libxtst-dev
+Build-Depends: debhelper (>= 8), libqt4-dev (>= 4.8.0), libsdl1.2-dev, libxtst-dev, cmake
 
 Package: antimicro
 Architecture: any
