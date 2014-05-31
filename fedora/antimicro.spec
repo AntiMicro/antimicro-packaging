@@ -1,5 +1,5 @@
 Name:           antimicro
-Version:        2.3.3
+Version:        2.4
 Release:        1%{?dist}
 Summary:        Graphical program used to map keyboard keys and mouse controls to a gamepad
 
@@ -44,6 +44,9 @@ cd ..
 
 
 %changelog
+* Fri May 30 2014 Travis Nickles <nickles.travis@gmail.com> - 2.4-1
+- Updated to version 2.4
+
 * Fri May 23 2014 Travis Nickles <nickles.travis@gmail.com> - 2.3.3-1
 - Updated to version 2.3.3
 

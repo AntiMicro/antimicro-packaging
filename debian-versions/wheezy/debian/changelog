@@ -1,3 +1,9 @@
+antimicro (2.4-1) wheezy; urgency=low
+
+  * Updated to version 2.4
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Fri, 30 May 2014 15:44:36 -0500
+
 antimicro (2.3.3-1) wheezy; urgency=low
 
   * Updated to version 2.3.3

@@ -2,7 +2,7 @@
 # Contributor: Travis Nickles <nickles.travis@gmail.com>
 
 pkgname=antimicro
-pkgver=2.3.3
+pkgver=2.4
 pkgrel=1
 pkgdesc="Graphical program used to map keyboard keys and mouse controls to gamepad buttons"
 arch=('i686' 'x86_64')
@@ -19,7 +19,7 @@ backup=()
 options=()
 install="${pkgname}.install"
 source=("https://github.com/Ryochan7/antimicro/archive/${pkgver}.tar.gz")
-md5sums=("34a4f2e30a9bcfe81763e0344f2e4ccc")
+md5sums=("ff8c1c3e30620bdcc8abb67c8b68dc44")
 noextract=()
 
 build() {
