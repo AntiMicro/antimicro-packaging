@@ -9,4 +9,4 @@ for the following distributions:
 * Debian (Ubuntu compatible)
 * Fedora
 * Gentoo
-
+* Ubuntu

@@ -5,5 +5,5 @@
 override_dh_auto_configure:
 	#dh_auto_configure -- -DCMAKE_INSTALL_PREFIX=/usr -DUSE_SDL_2=OFF
 	# Use the line below to create package that uses SDL2
-	dh_auto_configure -- -DCMAKE_INSTALL_PREFIX=/usr -DUSE_SDL_2=ON
-
+	#export QT_SELECT=5
+	dh_auto_configure -- -DCMAKE_INSTALL_PREFIX=/usr -DUSE_SDL_2=ON -DWITH_XTEST=ON
