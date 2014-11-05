@@ -1,0 +1,19 @@
+Source: antimicro
+Maintainer: Travis Nickles <nickles.travis@gmail.com>
+Homepage: https://github.com/Ryochan7/antimicro
+Section: x11
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 8), libqt4-dev (>= 4.8.0), libsdl2-dev, libxtst-dev, cmake
+
+Package: antimicro
+Architecture: any
+Section: x11
+Priority: optional
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0)
+Description: Graphical program used to map keyboard keys and mouse controls to a gamepad
+ AntiMicro is a graphical program that can be used to map keyboard
+ keys and mouse controls to a gamepad. This functionality is
+ useful for playing games with no built-in or
+ poor gamepad support.
+
