@@ -12,7 +12,7 @@ Section: x11
 Priority: optional
 Depends: ${shlibs:Depends}, ${misc:Depends}, libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0)
 Description: Graphical program used to map keyboard keys and mouse controls to a gamepad
- AntiMicro is a graphical program that can be used to map keyboard
+ antimicro is a graphical program that can be used to map keyboard
  keys and mouse controls to a gamepad. This functionality is
  useful for playing games with no built-in or
  poor gamepad support.
