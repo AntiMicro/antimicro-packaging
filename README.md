@@ -7,5 +7,4 @@ for the following distributions:
 
 * Arch Linux
 * Debian (Ubuntu compatible)
-* Fedora
 * Ubuntu
