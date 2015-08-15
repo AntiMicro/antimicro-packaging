@@ -1,3 +1,9 @@
+antimicro (2.18-1~trusty1) trusty; urgency=low
+
+  * Updated to version 2.18
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Sat, 15 Aug 2015 12:19:45 -0500
+
 antimicro (2.17-1~trusty1) trusty; urgency=low
 
   * Updated to version 2.17
