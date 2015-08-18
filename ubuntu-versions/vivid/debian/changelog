@@ -1,3 +1,9 @@
+antimicro (2.18.1-1~vivid1) vivid; urgency=low
+
+  * Updated to version 2.18.1
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Tue, 18 Aug 2015 02:03:34 -0500
+
 antimicro (2.18-1~vivid1) vivid; urgency=low
 
   * Updated to version 2.18
