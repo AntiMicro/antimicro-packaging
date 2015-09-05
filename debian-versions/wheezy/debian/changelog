@@ -1,3 +1,27 @@
+antimicro (2.19.1-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Updated to version 2.19.1
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Sat, 05 Sep 2015 00:48:12 -0500
+
+antimicro (2.19-2~bpo70+1) wheezy-backports; urgency=low
+
+  * Apply patch to populate main window after wizard
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Tue, 01 Sep 2015 02:04:11 -0500
+
+antimicro (2.19-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Updated to version 2.19
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Mon, 31 Aug 2015 22:10:09 -0500
+
+antimicro (2.18.2-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Updated to version 2.18.2
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Mon, 24 Aug 2015 14:38:06 -0500
+
 antimicro (2.18.1-1~bpo70+1) wheezy-backports; urgency=low
 
   * Updated to version 2.18.1
