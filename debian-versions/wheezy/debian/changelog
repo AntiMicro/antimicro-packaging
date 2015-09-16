@@ -1,3 +1,9 @@
+antimicro (2.19.2-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Updated to version 2.19.2
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Tue, 15 Sep 2015 22:05:51 -0500
+
 antimicro (2.19.1-1~bpo70+1) wheezy-backports; urgency=low
 
   * Updated to version 2.19.1

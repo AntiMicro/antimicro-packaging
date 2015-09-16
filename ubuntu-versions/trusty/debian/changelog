@@ -1,3 +1,9 @@
+antimicro (2.19.2-1~trusty1) trusty; urgency=low
+
+  * Updated to version 2.19.2
+
+ -- Travis Nickles <nickles.travis@gmail.com>  Tue, 15 Sep 2015 20:59:39 -0500
+
 antimicro (2.19.1-1~trusty1) trusty; urgency=low
 
   * Updated to version 2.19.1
