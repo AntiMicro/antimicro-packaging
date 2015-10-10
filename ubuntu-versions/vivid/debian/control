@@ -4,13 +4,13 @@ Homepage: https://github.com/Ryochan7/antimicro
 Section: x11
 Priority: optional
 Standards-Version: 3.9.4
-Build-Depends: debhelper (>= 8), cmake, gettext, itstool, libqt4-dev (>= 4.8.0), libsdl2-dev, libxtst-dev
+Build-Depends: debhelper (>= 8), cmake, gettext, itstool, libsdl2-dev, libxtst-dev, qttools5-dev-tools, qtbase5-dev, qttools5-dev
 
 Package: antimicro
 Architecture: any
 Section: x11
 Priority: optional
-Depends: ${shlibs:Depends}, ${misc:Depends}, libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0)
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Graphical program used to map keyboard keys and mouse controls to a gamepad
  antimicro is a graphical program that can be used to map keyboard
  keys and mouse controls to a gamepad. This functionality is
